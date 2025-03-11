@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color:black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  margin-bottom: 50px;
+  font-size:50px;
+  color:rgb(223, 197, 165);
+}
+
+
+
+.calculator{
+  box-shadow:black 60px;
+  border: 2px solid black;
+  width: 350px;
+  border-radius: 8px;
+  background-color:rgb(223, 197, 165);
+}
